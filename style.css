@@ -1,0 +1,45 @@
+.container{
+    padding: 0,35px;
+    display:flex;
+    justify-content: space-between;
+}
+.container ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+.container h1{
+    font-size: 150%;
+    margin-right :20px;
+    justify-content: space-between;
+    color:maroon;
+}
+button{
+    border: 25px solid maroon;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    padding: 20px 0;
+    border-radius: 80px;
+    margin: 15px 10px;
+    width: 190px;
+}
+.content img{
+    float:right;
+    width: 33%;
+    height: 60%;
+    padding-bottom: -3000px;
+    font-size: larger;
+    padding-right: 300px;
+    top: -10px;
+
+}
+h4{
+    font-size: xx-large;
+    font-size: 50px;
+    border: 15px;
+}
+p{
+    font-size: 20px;
+}
